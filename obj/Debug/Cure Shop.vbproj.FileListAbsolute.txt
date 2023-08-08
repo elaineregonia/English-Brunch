@@ -1,0 +1,41 @@
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\Cure Shop.vbprojAssemblyReference.cache
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\Cure Shop.vbproj.GenerateResource.cache
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\Cure Shop.vbproj.CoreCompileInputs.cache
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmLogin.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.Resources.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\bin\Debug\English Brunch.exe.config
+C:\Users\Elaine Regonia\source\repos\Cure Shop\bin\Debug\English Brunch.exe
+C:\Users\Elaine Regonia\source\repos\Cure Shop\bin\Debug\English Brunch.pdb
+C:\Users\Elaine Regonia\source\repos\Cure Shop\bin\Debug\English Brunch.xml
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English Brunch.exe
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English Brunch.xml
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English Brunch.pdb
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmLoad.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.mainform.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmPayment.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmVoid.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmAdmin.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmManageItems.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.History.resources
+C:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmRestock.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\bin\Debug\English Brunch.exe.config
+E:\Users\Elaine Regonia\source\repos\Cure Shop\bin\Debug\English Brunch.exe
+E:\Users\Elaine Regonia\source\repos\Cure Shop\bin\Debug\English Brunch.pdb
+E:\Users\Elaine Regonia\source\repos\Cure Shop\bin\Debug\English Brunch.xml
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\Cure Shop.vbproj.AssemblyReference.cache
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\Cure Shop.vbproj.SuggestedBindingRedirects.cache
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmLogin.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmAdmin.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmLoad.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmManageItems.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmPayment.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmRestock.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.frmVoid.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.History.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.mainform.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English_Brunch.Resources.resources
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\Cure Shop.vbproj.GenerateResource.cache
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\Cure Shop.vbproj.CoreCompileInputs.cache
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English Brunch.exe
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English Brunch.xml
+E:\Users\Elaine Regonia\source\repos\Cure Shop\obj\Debug\English Brunch.pdb
